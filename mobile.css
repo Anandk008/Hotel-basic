@@ -67,3 +67,7 @@
 #contact-form .l-heading {
     text-align: center;
 }
+
+#contact-info .box{
+    border-top: 1px dotted #666;
+}
