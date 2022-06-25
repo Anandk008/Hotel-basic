@@ -61,7 +61,8 @@
 
 #contact-form {
     line-height: 3rem;
-    height: 90vh;
+    height: 38em;
+    overflow: auto;
 }
 
 #contact-form .l-heading {
